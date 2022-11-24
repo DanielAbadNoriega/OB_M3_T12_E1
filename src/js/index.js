@@ -15,7 +15,7 @@ function fibonacci(num) {
     return fib;
   }
 
-  throw new Error("\nIntroduce un número mayor 2");
+  throw new Error("\nIntroduce un número");
 }
 
 try {
